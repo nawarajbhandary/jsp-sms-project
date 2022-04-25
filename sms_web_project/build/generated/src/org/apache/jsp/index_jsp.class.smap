@@ -1,0 +1,74 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 index.jsp
+index.jsp
++ 1 headerindex.jsp
+components/header/headerindex.jsp
++ 2 navbar.jsp
+components/header/navbar.jsp
++ 3 bodyindex.jsp
+components/body/bodyindex.jsp
++ 4 slider.jsp
+components/body/slider.jsp
++ 5 who-we-are.jsp
+components/body/who-we-are.jsp
++ 6 message.jsp
+components/body/message.jsp
++ 7 ouraim.jsp
+components/body/ouraim.jsp
++ 8 news.jsp
+components/body/news.jsp
++ 9 footer.jsp
+components/footer/footer.jsp
+*L
+5,19:57
+5#1,11:76
+5#2,7:87
+12:94,3
+13,17:97
+15#1,4:113
+23#0,2:116
+5#3,11:118
+5#4,13:129
+18:142,3
+19,2:145
+21:147,3
+22,3:150
+25:153,3
+26,15:156
+15#3,2:170
+5#5,7:172
+12:179,3
+13,30:182
+43:212,3
+44,6:215
+16#3,2:220
+5#6,7:222
+12:229,3
+13,28:232
+41:260,3
+42,13:263
+17#3,2:275
+5#7,7:277
+12:284,3
+13,12:287
+25:299,3
+26,12:302
+38:314,3
+39,12:317
+51:329,3
+52,16:332
+18#3,2:347
+5#8,7:349
+12:356,3
+13,23:359
+19#3,5:381
+24#0,2:385
+5#9,7:387
+12:394,3
+13,11:397
+25#0,8:407
+*E

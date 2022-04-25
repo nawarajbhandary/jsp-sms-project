@@ -1,0 +1,208 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 25, 2022, 4:57:34 PM
+    Author     : Nawraj
+*/
+.about-title{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.title-head  {
+  position: relative;
+  font-size: 40px;
+  font-family: 'sans-serif' 'Roboto';
+  line-height: 37px;
+  color: #848484;
+  display: block;
+}
+.title-head span{
+  color:  #337ab7;
+}
+.about-section{
+  position: relative;
+  padding: 114px 0px 81px 0px;
+}
+
+.about-section .text p{
+  margin-bottom: 33px;
+}
+.article{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    
+}
+.article-right{
+    
+    margin: auto;
+}
+.button-readmore{
+   
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  background:  #337ab7;
+  border: 1px solid  #337ab7;
+  padding: 12px 25px 12px 24px;
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  transition: all 900ms ease;
+  line-height: 24px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  z-index: 1;
+}
+.message-container{
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+   background:  rgba(0, 0, 0, 0.1);;
+   top: 20px;
+}
+.message-containern:before{
+  position: absolute;
+  content: '';
+
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 20px;
+  opacity: 1;
+}
+.message-content{
+    padding:10px 40px;
+}
+.content-main{
+    padding: 40px 10px;
+}
+.sir_photo img{
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.service-title{
+    text-align: center;
+}
+.container-aim{
+    margin-top: 50px;
+}
+.row-aim{
+    padding: 10px 40px;
+}
+.aim-title>h3{
+    color :red !important;
+
+}
+.btn-one {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  background:  #337ab7;
+  border: 1px solid  #337ab7;
+  padding: 12px 25px 12px 24px;
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  transition: all 900ms ease;
+  line-height: 24px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  z-index: 1;
+}
+.btn-one:hover{
+  color:  #337ab7;
+  background: transparent;
+  border: 1px solid  #337ab7;
+  transition: all 900ms ease;
+}
+
+.btn-two {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color:  #337ab7;
+  background: #fff;
+  padding: 12px 25px 12px 24px;
+  font-family: 'Open Sans', sans-serif;
+  position: relative;
+  transition: all 900ms ease;
+  line-height: 24px;
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  z-index: 1;
+  border: 1px solid  #337ab7;
+}
+.btn-two:hover{
+  color: #fff;
+  background:  #337ab7;
+  border: 1px solid  #337ab7;
+  transition: all 900ms ease;
+}
+
+.button {
+    text-align: center;
+    align-items: center;
+}
+.service-column{
+    margin: 20px 0;
+}
+.button-about{
+    text-align: left;
+    
+}
+.newsletter-section{
+  position: relative;
+  padding: 48px 0px 50px 0px;
+  background:  #337ab7;
+  width: 100%;
+}
+.newsletter-section .text{
+  font-size: 40px;
+  line-height: 47px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
+.newsletter-section .subscribe-form input{
+  position: relative;
+  width: 380px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  padding: 15px 20px;
+  height: 50px;
+  color: #fff;
+  margin-bottom: 0px;
+  background: transparent;
+}
+.newsletter-section ::-webkit-input-placeholder { /* Chrome */
+  color: #fff;
+}
+
+.newsletter-section :-ms-input-placeholder { /* IE 10+ */
+  color: #fff;
+}
+.newsletter-section ::-moz-placeholder { /* Firefox 19+ */
+  color: #fff;
+  opacity: 1;
+}
+.newsletter-section :-moz-placeholder { /* Firefox 4 - 18 */
+  color: #fff;
+  opacity: 1;
+}
+.newsletter-section .btn-two{
+  float: right;
+  color: #222;
+  padding: 13px 35px;
+}
+.newsletter-section .btn-two:hover{
+  border: 1px solid #fff;
+  color: #fff;
+}
